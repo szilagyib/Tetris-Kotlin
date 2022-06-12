@@ -1,0 +1,10 @@
+{"name":"vau","score":43,"place":1}
+{"name":"én","score":40,"place":2}
+{"name":"ajjajj","score":30,"place":3}
+{"name":"züm","score":17,"place":4}
+{"name":"Nyertess","score":15,"place":5}
+{"name":"hihetetlen","score":14,"place":6}
+{"name":"Hull a szilva a fáról","score":11,"place":7}
+{"name":"le kéne adni már ezt","score":9,"place":8}
+{"name":"ITT VAGYOK!","score":4,"place":9}
+{"name":"444","score":4,"place":10}
